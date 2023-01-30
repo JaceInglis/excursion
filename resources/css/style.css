@@ -21,3 +21,9 @@ body {
     font-weight: 300;
     font-size: 42px;
 }
+
+.service-description {
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
