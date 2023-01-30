@@ -27,3 +27,8 @@ body {
     font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.copyright-claim {
+    color: gray;
+    text-align: right;
+}
